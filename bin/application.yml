@@ -1,0 +1,19 @@
+
+server:
+  port: 9411
+  
+  
+logging:
+  level.org.springframework.cloud: DEBUG
+
+
+#spring:
+#  rabbitmq:
+#    host: localhost
+#    port: 5672
+#    password: 7751916
+#    username: cai
+#  sleuth:
+#    enabled: false
+ 
+  
